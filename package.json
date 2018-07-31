@@ -1,6 +1,6 @@
 {
   "name": "@prichodko/wcjs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "JavaScript project counter",
   "main": "index.js",
   "bin": {
